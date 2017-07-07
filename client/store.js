@@ -1,0 +1,1 @@
+import { createStore } from 'redux'//action - typeconst GOT_MESSAGES_FROM_SERVER = 'GOT_MESSAGES_FROM_SERVER';export default gotMessagesFromServer (arr) {}
